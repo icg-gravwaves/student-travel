@@ -45,3 +45,6 @@ Click this link to go to the tips page: [link](travel-tips.md)
 
 ---
 Click this link to return to the homepage: [link](index.md)
+
+---
+If you would like to contribute to this repository please follow this [link](https://github.com/icg-gravwaves/student-travel/)
