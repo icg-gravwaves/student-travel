@@ -10,7 +10,7 @@ So, you've found a place you want to go and you don't want to pay for it? Find a
 The easiest way to do this is to ask your supervisor, ask your peers, read your emails and learn what the big conferences are for your field and research area.  
 
 **Step 2**: Ask your supervisor  
-If your supervisor recommended this conference then you can skip this step. If not then in your weekly supervision email you should ask them what they think of the conference you have found and if they are happy for you to go.  
+If your supervisor recommended this conference then you can skip this step. If not then in your weekly supervision meeting you should ask them what they think of the conference you have found and if they are happy for you to go.  
 
 **Step 3**: Fill in the ICG Travel Request form  
 Your request now needs to be approved by the department so you must fill in this form:
@@ -18,7 +18,7 @@ Your request now needs to be approved by the department so you must fill in this
 If you want to see a breakdown of how I estimate costs then go to this page: [link](request-form-estimate.md)
 
 **Step 4**: Wait for confirmation  
-This can take some time, if it is taking too long then email <icg-travel@port.ac.uk>.  
+This can take some time, if it is taking too long then email <icg-travel@port.ac.uk> and ask for an update.  
 If the conference has an early bird discount or abstract deadlines then don't hesitate to push the process to go faster. <icg-travel@port.ac.uk> should email you confirmation and the next steps. For an example of this response go to this page: [link](icg-travel-response.md)
 
 **Step 5**: Email Reed & MacKay  
