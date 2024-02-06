@@ -6,15 +6,15 @@ The next stage is to book travel and accommodation. Please contact Reed and MacK
 university travel bookers) with your travel itinerary, this needs to include dates, departure point,
 arrival point and destination. Their contact details are:
 
-a) +44 (0)20 8051 1824
-b) businessunit4@reedmackay.com (cc icg-travel@port.ac.uk)
-c) Office opening hours: Monday to Friday 0830 – 1800
+a) +44 (0)20 8051 1824  
+b) businessunit4@reedmackay.com (cc icg-travel@port.ac.uk)  
+c) Office opening hours: Monday to Friday 0830 – 1800  
 
 Conference fees can be paid in a number of ways:
 
-a) with a University credit card (contact ICG Admin)
-b) University bank transfer (you need to allow up to three weeks for this method)
-c) you can pay the fees yourself  yourself and claim using an ICG EFIN30 link: here
+a) with a University credit card (contact ICG Admin)  
+b) University bank transfer (you need to allow up to three weeks for this method)  
+c) you can pay the fees yourself  yourself and claim using an ICG EFIN30 link: here  
 
 If the conference organisers have preferential rates for accommodation you can provide Reed & Mackay with the details (eg promotion codes) to secure the rates. Alternatively if the conference
 organiser includes the accommodation with the conference fee (e.g. University accommodation, not an hotel) ICG can pay for this in advance with the registration fee.
