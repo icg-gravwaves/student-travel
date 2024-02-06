@@ -1,4 +1,4 @@
-I'm hoping this guide will help everyone to keep up to date and have a central repository of information when it comes to travel reqeusts as a PhD student in the ICG looking to go to a conference. This is very a much a collaborative effort so feel free to go to the repository (link) and suggest a change to be made for any information that I have missed. I won't be here forever so I can't keep it updated forever!  
+I'm hoping this guide will help everyone to keep up to date and have a central repository of information when it comes to travel reqeusts as a PhD student in the ICG looking to go to a conference. This is very a much a collaborative effort so feel free to go to the repository ([link](https://github.com/icg-gravwaves/student-travel/)) and suggest a change to be made for any information that I have missed. I won't be here forever so I can't keep it updated forever!  
 Thanks,  
 Arthur Tolley
 
