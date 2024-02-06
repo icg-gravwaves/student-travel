@@ -4,7 +4,7 @@ Arthur Tolley
 
 ---
 
-So, you've found a place you want to go and you don't want to pay for it? Find a relevant conference in the same place!
+So, you've found a place you want to go and you don't want to pay for it? Find a relevant conference in the same place! Now, how do I actually get approval to go to this conferece? This is the ICG internal guide: [link](https://www.icg.port.ac.uk/support-kb/what-to-do-when-you-want-to-travel-for-work-reasons/).
 
 **Step 1**: Find a Conference  
 The easiest way to do this is to ask your supervisor, ask your peers, read your emails and learn what the big conferences are for your field and research area.  
@@ -28,16 +28,19 @@ You want to have a good idea of the travel and the accommodation before you send
 The same is true for hotels. If you don't want to stay at a travel lodge you can ask explicitly for a booking to be made for "6 nights, starting on the 10/05/2024 with checkout on the 16/05/2024 at the Premier Inn at (insert address)" and they will do it if possible, if not they will provide alternatives for you to pick from.
 
 **Step 6**: Get a Purchase Order  
-Once you have agreed an itinerary with R&M you will then be required to provide them with a purchase order (PO) from the ICG. The easiest way to do this is the cc icg-travel@port.ac.uk into a reply to the email where R&M are asking you for the PO. You can even tag @icg-travel@port.ac.uk who will get it from tech-finance@port.ac.uk.
+Once you have agreed an itinerary with R&M you will then be required to provide them with a purchase order (PO) from the ICG. The easiest way to do this is the cc icg-travel@port.ac.uk into a reply to the email where R&M are asking you for the PO. You can even tag @icg-travel@port.ac.uk who will get it from <tech-finance@port.ac.uk>.
 
 **Step 7**: Provide this PO to R&M  
-tech-finance@port.ac.uk might send you an attachment containing the PO so you need to forward this to R&M as part of a reply to your itinerary email chain.
+<tech-finance@port.ac.uk> might send you an attachment containing the PO so you need to forward this to R&M as part of a reply to your itinerary email chain.
 
 **Step 8**: Double check all booking information  
 R&M should now provide you will all the booking confirmations and information you need to get to the conference. You should double check this to make sure everything lines up.
 
 **Step 9**: Go to the conference  
-Last thing to do is go to the conference and have a good time. If you have any trouble at the conference you can always contact icg-travel@port.ac.uk
+Last thing to do is go to the conference and have a good time. If you have any trouble at the conference you can always contact <icg-travel@port.ac.uk>
+
+**Step 10**: Claim back your money  
+This is the final and probably 2nd most important step. To claim back all the money you personally spent at the conference you need to fill out an eFin30 form ([link](https://docs.google.com/spreadsheets/d/13FbRhvGQA3NjLbFD84kdvPSQmJkFcemQ/edit#gid=539632554)) and send this off to icg-travel@port.ac.uk. This will then get processed and sent back to you either at the end of the current or the next month.
 
 ---
 
