@@ -1,16 +1,16 @@
-I'm hoping this guide will help everyone to keep up to date and have a central repository of information when it comes to travel reqeusts as a PhD student in the ICG looking to go to a conference. This is very a much a collaborative effort so feel free to go to the repository ([link](https://github.com/icg-gravwaves/student-travel/)) and suggest a change to be made for any information that I have missed. I won't be here forever so I can't keep it updated forever!  
+I'm hoping this guide will help everyone to keep up to date and have a central repository of information when it comes to travel requests as a PhD student in the ICG. This is very a much a collaborative effort so feel free to go to the repository ([link](https://github.com/icg-gravwaves/student-travel/)) and suggest a change to be made for any information that I have missed. I won't be here forever so I can't keep it updated forever!  
 Thanks,  
 Arthur Tolley
 
 ---
 
-So, you've found a place you want to go and you don't want to pay for it? Find a relevant conference in the same place! Now, how do I actually get approval to go to this conferece? This is the ICG internal guide: [link](https://www.icg.port.ac.uk/support-kb/what-to-do-when-you-want-to-travel-for-work-reasons/).
+So, you've found a place you want to go and you don't want to pay for it? Find a relevant conference in the same place! Now, how do I actually get approval to go to this conference? This is the ICG internal guide: [link](https://www.icg.port.ac.uk/support-kb/what-to-do-when-you-want-to-travel-for-work-reasons/), it is missing quite a lot of information, hopefully this guide will fill in the gaps.
 
 **Step 1**: Find a Conference  
 The easiest way to do this is to ask your supervisor, ask your peers, read your emails and learn what the big conferences are for your field and research area.  
 
 **Step 2**: Ask your supervisor  
-If your supervisor recommended this conference then you can skip this step. If not then in your weekly supervision meeting you should ask them what they think of the conference you have found and if they are happy for you to go.  
+If your supervisor recommended this conference then you can skip this step. If not, then in your weekly supervision meeting you should ask them what they think of the conference you have found and if they are happy for you to go.  
 
 **Step 3**: Fill in the ICG Travel Request form  
 Your request now needs to be approved by the department so you must fill in this form:
