@@ -36,3 +36,6 @@ Best wishes
 
 Sharon Lewis
 ICG Manager
+
+---
+Click this link to return to the homepage: [link](index.md)
