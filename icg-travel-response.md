@@ -12,7 +12,7 @@ Cost centre: 10% 18387, 40% 18371, 50% 41052
 
 Staff: please use the Concur travel and expenses system, and raise a 'request' to include your travel itinerary.
 
-Student: please email Reed and Mackay with your travel itinerary. This needs to include dates, departure point, arrival point and destination. 
+Student: please email [Reed and Mackay](mailto:businessunit4@reedmackay.com) with your travel itinerary. This needs to include dates, departure point, arrival point and destination. 
 
 Reed and Mackay can also be contacted by telephone +44 (0)20 8051 1824. Please note that their office opening hours are Monday to Friday 08:30-18:00.
 
