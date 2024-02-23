@@ -39,7 +39,7 @@ R&M should now provide you will all the booking confirmations and information yo
 **Step 9**: Go to the conference  
 Last thing to do is go to the conference and have a good time. If you have any trouble at the conference you can always contact <icg-travel@port.ac.uk>
 
-**VERY IMPORTANT**
+**VERY IMPORTANT**  
 Keep **all** of your receipts. To make a claim you need proof of the purchase you have made.  
 If you go out for dinner, take a picture of the itemized receipt and try to get a physical copy as a backup.  
 If you paid as part of a group you can highlight which items were yours when you submit the picture as part of your eFin30.
